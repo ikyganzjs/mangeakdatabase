@@ -1,58 +1,7 @@
 [
   {
-    "username": "IkyJs",
-    "password": "ikygans"
-  },
-  {
-    "username": "rio",
-    "password": "ici"
-  },
-  {
-    "username": "puingpuingkenangan",
-    "password": "alamaktakutnya123"
-  },
-  {
-    "username": "tes",
-    "password": "tes"
-  },
-  {
-    "username": "iqky",
-    "password": "kiw"
-  },
-  {
-    "username": "priki",
-    "password": "tiw"
-  },
-  {
-    "username": "pokak",
-    "password": "gyYjcY"
-  },
-  {
-    "username": "cok",
-    "password": "aEzxf6"
-  },
-  {
-    "username": "wibu",
-    "password": "kJmNHf"
-  },
-  {
-    "username": "ahmad",
-    "password": "IAtZBA"
-  },
-  {
-    "username": "Ahmad",
-    "password": "JJhBKA"
-  },
-  {
-    "username": "ikyjs",
-    "password": "3MQU4H"
-  },
-  {
-    "username": "sukma|12345",
-    "password": "3GK970"
-  },
-  {
-    "username": "woi",
-    "password": "MyMCUe"
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "123456"
   }
 ]
